@@ -1,6 +1,6 @@
-# Hype OPL3 patch
+# Hype MSX OPL3 music patch
 
-This IPS patch, made by Brazilian MSX users Maurício Braga (Mauk) and Pablo Vasques (Parn), replaces the Hype soundtrack with a new OPL3 arrangement. It must be applied on the original cassette release by ByteBusters (in CAS format) and generates a ROM image. It can be used with any Moonsound compatible sound card and also with second-generation FPGA MSX models, such as the S-MX.
+This IPS patch, made by Brazilian MSX users Maurício Braga (Mauk) and Pablo Vasques (Parn), replaces the Hype soundtrack with a new OPL3 music arrangement. It must be applied on the original cassette release by ByteBusters (in CAS format) and generates a ROM image. It can be used with any Moonsound compatible sound card and also with second-generation FPGA MSX models, such as the S-MX.
 
 Original CAS checksums:
 SHA-1: 70907ce0ed4fd7622c193aaa3e7931d818e03620
